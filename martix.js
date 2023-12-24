@@ -31,4 +31,4 @@ function matrix(num) {
     console.log("Sum of column " + (i + 1) + ": " + sc);
   }
 }
-console.log(matrix(3));
+matrix(3);
